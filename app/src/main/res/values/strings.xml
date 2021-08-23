@@ -1,0 +1,1329 @@
+ <resources>
+    <string name="app_name">Bhopal Travel Guide</string>
+
+    <!-- Van vihar-->
+    <string name="van_vihar">Van Vihar</string>
+    <string name="van_vihar_address">Shymala Hills, Bhopal, \nMadhya Pradesh 462002
+ \nIndia</string>
+    <string name="van_vihar_opening_hours">The park is open to the visitors from 6:30AM to 7:00PM.
+        \nIt is closed on Friday.
+        \nThe best time to visit the park is from July to September</string>
+    <string name="van_vihar_entry_fees">1. Individual on Foot / Cycling \n* ₹20 For Indians.\n* ₹30 For Foreigner.
+                                        \n\n2. 2 Wheelers (Max 2 persons per Vehicle)	\n* ₹60.
+                                        \n\n3. Auto Rickshaw (Max 4 persons including driver)	\n* ₹120.
+                                        \n\n4. Car / Light Vehicles / SUVs (Max 8 persons including driver) \n* ₹250.
+    </string>
+    <string name="van_vihar_website"><a href = "http://www.mptourism.com/blog/places-to-visit-in-bhopal-van-vihar-national-park.html">http://www.mptourism.com/blog/places-to-visit-in-bhopal-van-vihar-national-park.html</a></string>
+    <string name="van_vihar_visit_duration">2 to 3 Hours</string>
+    <string name="about_van_vihar">Van Vihar National Park is no doubt an amazing mix of rich biota and swanky green settings.
+                    Its time to take your wanderlust to all new levels with one of our unexplored hidden gems.
+
+        \n\nA park made from a depleted forest!
+        \n\nBestowed with some great local markets, ancient palaces, glittering lakes, divine temples, majestic mosques and a national park,
+        the capital city of Madhya Pradesh has it all! However, this piece of knowledge will primarilyspeak
+        about one of the best national parks in India and Madhya Pradesh i.e. Van Vihar National Park.
+        \n\nVan Vihar National Park was formed from a depleted forest area. In order to bring back and protect the rich flora fauna,
+        this unproductive land was declared a National Park in 1981 under the wildlife protection act.
+
+        \n\nThe rich wildlife at Van Vihar!
+        \n\nThis open zoological park comprises some huge wire enclosures where the carnivores like tiger, lion, panther, bear,
+        and hyena stay as per the modern theory of the zoo management. On the contrary, the herbivores for instance cheetal
+        and blackbuck are allowed to move around freely. The relentless chirping of a wide range of birds fills the air with
+        vivacity while crocodile and tortoises relax in the sun. Another division which needs a mention here is the reptile unit,
+        where one can see snakes like the cobras,
+        russel vipers and pythons crawling on mud. The Van ViharRashtriyaUdyan also houses a ginormous variety of butterflies and insects.
+
+       \n\n The best way to explore Van Vihar National Park
+
+\n\nBesides the options of travelling the park via car or motorcycle, we would recommend you to explore the beauty of thisgreen
+        setup on a bicycle or just walk around. After reaching the gate of Van Vihar National Park,
+        you get the option of hiring a bike on rent else you can also carry your own if you wish to.
+    </string>
+
+
+    <!-- BIRLA MANDIR-->
+    <string name="birla_mandir_txt">Birla Mandir</string>
+    <string name="birla_mandir_address">Arera Hills, Bhopal, \nMadhya Pradesh 462011 \nIndia</string>
+    <string name="birla_mandir_opening_hours">Timings : 7:00 AM to 12:00 PM, \n3:00 PM to 9:00 PM.\n All days of the week</string>
+    <string name="birla_mandir_entry_fees">NO ENTRY FEE</string>
+    <string name="birla_mandir_visit_duration">1 to 2 Hours</string>
+    <string name="about_birla_mandir">
+        Built at the summit of Arera hills is the Lakshmi Narayan Temple, structured with grandiose scale and design.
+        The temple is more commonly known as Birla Mandir. Its an awe-inspiring spectacle that showcases a panoramic
+        view of the historic city of Bhopal. The temple was built in the honour of Lakshmi, the deity of wealth and
+        her consort Vishnu (also known by the name Narayan), the preserver of the universe. Hence the name Lakshmi
+        Narayan. Surrounded by greenery and an ancient charm, the temple is a shrine to Lord Shiva and Parvathi,
+        providing solace and tranquillity to devotees.
+        \n\nSpread over 7.5 acres adorned with well-maintained lawns and gardens, fountains and sculptures the grand
+        temple attracts thousands of devotees during the festivities of Janmashtami and Diwali. The Lakshmi Narayan
+        Temple was erected by the famous industrial family - the Birla Group and inaugurated by Mahatma Gandhi.
+        \n\nThe Birla Temple also houses the famous Birla Museum in its premises with collections dating back to
+        the 12th-century boasting some sculptures from the era of Paramaras. A magnificent archway welcomes devotees
+        at the entrance that leads to a picturesque of finely crafted Hindu sculptures. The sandy-yellowish colour of
+        the temple and the contagious greenery of the gardens adds an antique appeal to its ambience.
+    </string>
+
+
+    <!-- SANCHI STOOP-->
+    <string name="sanchi">Sanchi Stupa</string>
+    <string name="sanchi_address">Sanchi, Raisen, \nMadhya Pradesh,464661, \nIndia</string>
+    <string name="sanchi_opening_hours">Sanchi Stupa timings are from 8:30 AM to
+                                         5:30 PM on all days of the week.\nTimings for Sanchi Stupa Museum are 10 am to 5 pm.</string>
+    <string name="sanchi_entry_fees">* ₹10 For Indians.\n* ₹250 For Foreigner</string>
+    <string name="sanchi_website"><a href = "http://www.mptourism.com/tourist-places/sanchi-stupa.html">http://www.mptourism.com/tourist-places/sanchi-stupa.html</a></string>
+    <string name="sanchi_visit_duration">2 Hours</string>
+    <string name="about_sanchi">Sanchi Stupa is a Buddhist complex, famous for its Great Stupa,
+        on a hilltop at Sanchi Town in Raisen District of the State of Madhya Pradesh,
+        India. It is located in 46 kilometres (29 mi) north-east of Bhopal, capital of Madhya Pradesh.
+        The Great Stupa at Sanchi is one of the oldest stone structures in India, and an important monument of Indian Architecture.
+        It was originally commissioned by the emperor Ashoka in the 3rd century BCE. Its nucleus was a simple hemispherical brick
+        structure built over the relics of the Buddha. It was crowned by the chhatri, a parasol-like structure symbolising high rank,
+        which was intended to honour and shelter the relics. The original construction work of this stupa was overseen by Ashoka,
+        whose wife Devi was the daughter of a merchant of nearby Vidisha. Sanchi was also her birthplace as well as the venue of her and
+        Ashokas wedding. In the 1st century BCE, four elaborately carved toranas (ornamental gateways) and a balustrade encircling the entire
+        structure were added.
+        The Sanchi Stupa built during Mauryan period was made of bricks. The composite flourished until the 11th century.
+    </string>
+
+
+    <!-- UPPER LAKE-->
+    <string name="upper_lake">Upper Lake</string>
+    <string name="upper_lake_address">Upper Lake, Near CM House, Bhopal, \nMadhya Pradesh, 462003, \nIndia</string>
+    <string name="upper_lake_opening_hours">6:00 am – 7:00 pm\nAll days of The Week</string>
+    <string name="upper_lake_entry_fees">No Entry Fee
+        \n\nBoating Prices
+    \n* ₹100 per person for Cruise boat (Ride of 45 minutes)
+    \n* ₹240 per person for Motor Boat
+    \n* ₹80 per person for Paddle Boat</string>
+    <string name="upper_lake_website"><a href = "https://bhopaltourism.in/upper-lake-bhopal">https://bhopaltourism.in/upper-lake-bhopal</a></string>
+    <string name="upper_lake_visit_duration">1 Hours</string>
+    <string name="about_upper_lake">The oldest man made lake in India, Upper lake is also known as Bhojtal or Bada Talab locally.
+        This beautiful and vast water body was built during the 11th century. The lake is a massive earthen bound construction, built
+        across the Kolans River. According to a legend, it is believed that King Bhoj constructed this gigantic lake to cure his skin disease.
+        \n\nThe Upper lake is spread over a catchment area of 36.1 sq km, and it happens to be the major source of potable water for the
+        people of Bhopal. Within the vicinity of the lake, there is an attractive royal garden called Kamla Park, which makes its
+        surroundings more scenic. The hub of all water sport activities in Bhopal, the lake is a favourite spot for adventure enthusiasts.
+        The Upper (and bigger) Lake is separated from the smaller one by an overbridge. A boat club, walkway and aquarium, serenaded by a
+        cool breeze, makes the Upper Lake area delightful for a rendezvous. The lake also has the dargah of Shah Ali Shah, a maulvi.
+    </string>
+
+    <!-- YODHASTHAL ARMY MUSEUM-->
+    <string name="yodhasthal_museum">Yodhasthal Army museum</string>
+    <string name="yodhasthal_museum_address">Airport Rd, Lalghati, Bhopal, \nMadhya Pradesh 462038 \nIndia</string>
+    <string name="yodhasthal_museum_opening_hours">Tuesday - Sunday \n9:00 AM - 1:00 PM ; \n5:00 PM - 7:00 PM</string>
+    <string name="yodhasthal_museum_entry_fees">No Entry Fee</string>
+    <string name="yodhasthal_museum_website"><a href = "https://www.facebook.com/Yodhasthal/?rf=1770097863261739">https://www.facebook.com/Yodhasthal/?rf=1770097863261739</a></string>
+    <string name="yodhasthal_museum_visit_duration">2 Hours</string>
+    <string name="about_yodhasthal_museum">
+        Yodhasthal, the army museum in Bhopal a prominent "Know your Army" facility, is known for its exhibition of arms
+        and ammunition used by defence forces. The museum provides engrossing knowledge about the victories and war stories
+        of Indian Army. Dedicated to the youth of Bhopal, Yodhasthal offers enriching audio-visual experience about the defence
+        with displays of arty guns, tanks, arms used on the battlefield before and after independence. The war equipment
+        narrates the splendid history of all the wars ever fought in the past.
+
+        \nThe state museum and tribal museum of Madhya Pradesh are two other museums 6 km away from Yodhasthal. Inaugurated by
+        the General Officer Commanding of Headquarters Bhopal, Major General Narinder Pal Singh, the museum is an aesthetic
+        structure. Creating awareness among youngsters through exhibiting the finery of Indian Army, therefore encouraging
+        more youngsters to commit to this profession was a significant motive of the museum.
+    </string>
+
+    <!-- TAJ-UL-MASJID-->
+    <string name="taj_ul_masjid_name">Taj-Ul-Masjid</string>
+    <string name="taj_ul_masjid_address">NH 12, Kohefiza, Bhopal, \nMadhya Pradesh 462001 \nIndia</string>
+    <string name="taj_ul_masjid_opening_hours"> \n6:00 am – 8:00 pm; \nAll Days Of The Week\n\nNote: Entry to the mosque however,
+        is not allowed to non-Muslims on Fridays</string>
+    <string name="taj_ul_masjid_entry_fees">No Entry Fee</string>
+    <string name="taj_ul_masjid_website"><a href = "https://bhopal.nic.in/en/tourist-place/taj-ul-masajid/">https://bhopal.nic.in/en/tourist-place/taj-ul-masajid</a></string>
+    <string name="taj_ul_masjid_visit_duration">1 Hours</string>
+    <string name="about_taj_ul_masjid">
+        Despite popular belief, the largest mosque in India is not the Jama Masjid of Delhi. It is, in fact, the Taj-ul-Masjid,
+        in the central India town of Bhopal, which is the capital of the state of Madhya Pradesh. With an interior area of about
+        430,000 square feet, the mosque has a capacity of 175,000 people.
+        \nThe meaning of Taj-ul-Masjid translates to ‘The Crown of Mosques,’ and the magnificent architecture reflects just that.
+        The masjid was built between the years 1868 and 1901, started by Sultan Shah Jehan Begum of Bhopal. Not only is the mosque
+        the largest in the country, but it also happens to be the second largest mosque in Asia. Made of red stone, the mosque is
+        situated by the lake referred to as the Motia Talab.
+        \nThe mosque has three domes and two minarets. The masjid is open on all days, but non-Muslims are not allowed inside on
+        Fridays. A sign of determination of the female ruler, the mosque is also a symbol of devotion. The mosque holds remarkable
+        similarity with the architecture of Jama Masjid of Delhi, including the decorations.
+
+        \nWhile the construction of the mosque began in the 1800s, it was stalled due to lack of funds. Construction started again in
+        1971, and through the efforts of Maulana Sayed Hashmat Ali Sahab of Bhopal and Allama Mohammad Imran Khan Nadwi Azhari, the
+        mosque was completely built by 1985. During this stage of construction, the entrance, which is also the eastern gate, was
+        renovated in a very grand manner.
+
+        \nBhopal is well connected with Delhi and Bombay, and once in the city, reaching Taj-ul-Masjid is not much of a hassle. The
+        location is prime, and the place is one of the important landmarks of the city.
+    </string>
+
+    <!-- KANHA FUN CITY-->
+    <string name="kanha_fun_city">Kanha Fun City</string>
+    <string name="kanha_fun_city_address">Hoshangabad Rd, Indus Towne, \nRatanpur Sadak, Bhopal, \nMadhya Pradesh 462047 \nIndia</string>
+    <string name="kanha_fun_city_opening_hours">10:00 am – 6:00 pm; \nAll Days Of The Week</string>
+    <string name="kanha_fun_city_entry_fees">The mentioned price is for an adult and includes entry to Amusement Park.
+                                    \n\n* Water Park + Amusement Park: INR 450 per adult
+                                    \n* Senior Citizens: Free</string>
+    <string name="kanha_fun_city_website"><a href ="http://kanhafuncity.com/">kanhafuncity.com</a></string>
+    <string name="kanha_fun_city_visit_duration">2 to 3 hrs</string>
+     <string name="about_kanha_fun_city">
+       Kanha Fun City is an amusement and water park located in the city of Bhopal. This park has a wide range of thrill
+        and water rides making it an ideal destination for the entire family to visit. Rides in the amusement park include
+        Swing Chair, Family Train, Water MGR, Bungee Jump, Jumping Frog, Dashing Car, Flying Dutchman, Rainbow, Mono Cycle,
+        Vortex and many more. The water park has many slides and attractions like Wave Pool, Multiply System, Baby Pool, Aqua
+        Disco, Turning Point, Tube Slide, Cyclone, Body Slide and Family Slide. Kanha Fun City also has five venues which can host
+        events like wedding reception, theme parties, corporate parties, school functions, picnics, and product launches.
+    </string>
+
+    <!-- SAIR SAPATA-->
+    <string name="sair_sapata">Sair Sapata</string>
+    <string name="sair_sapata_address">Bhadbhada Road, Prempura, Bhopal, \nMadhya Pradesh 462044 \nIndia</string>
+    <string name="sair_sapata_opening_hours">11:00 AM - 10:00 PM; \nAll Days Of The Week</string>
+    <string name="sair_sapata_entry_fees">* Adults: ₹30
+                                        \n* Children: ₹10</string>
+    <string name="sair_sapata_website"><a href = "https://www.facebook.com/SairSapataBhopal/">https://www.facebook.com/SairSapataBhopal</a></string>
+    <string name="sair_sapata_visit_duration">2 to 3 hrs</string>
+    <string name="about_sair_sapata">
+       Sair Sapata is a significant entertainment zone, inaugurated on 29 September 2011. The tourism complex is predominantly
+        a play park which is also a good leisure space for adults. Covering an area of 24.56 acres, Sair Sapata offers enjoyable
+        activities like forest hiking, car dashing, zorbing and so on. Boat rides, four kiosks and three viewpoints keep tourists engaged.
+
+        \n\nThe complex has attractions that actively encourage tourism, like two acres of childrens play area, musical fountain, toy
+        train and a suspension bridge. Situated on the banks of the Bada Talaab (Upper Lake) of Bhopal, the suspension bridge is a
+        significant attraction. Built with RCC deck slabs along the lines of Lachman Jhula, it is believed to be the first pedestrian
+        bridge made this way in India. With a motive to extend tourist facilities, Madhya Pradesh State Tourism Development Corporation
+        renovated and developed Sair Sapata.
+    </string>
+
+    <!-- PEOPLES MALL-->
+    <string name="peoples_mall">People\'s Mall</string>
+    <string name="peoples_mall_address">People\'s Campus, Bhanpur, Bhopal, \nMadhya Pradesh 462037 \nIndia</string>
+    <string name="peoples_mall_opening_hours">9:00AM to 9:00PM \nAll Days Of The Week.</string>
+    <string name="peoples_mall_entry_fees">* Amusement park entry fee: Rs.50/- per person
+                                           \n* Peoples mall water park bhopal ticket price: Rs.350/- per person
+\n* Prices of individual attractions vary.</string>
+    <string name="peoples_mall_website"><a href = "https://www.facebook.com/PeoplesWorldBhopal/">https://www.facebook.com/PeoplesWorldBhopal/</a></string>
+    <string name="peoples_mall_visit_duration">3 Hours</string>
+    <string name="about_peoples_mall">
+        An amusement park plus shopping mall in Bhopal. The People\'s mall is loved for its number of life-size replicas including
+        the Taj Mahal, Red Fort, Eiffel tower, Lotus temple, the Statue of Liberty, Egyptian Pyramids and the India Gate. The place
+        offers some of the best eateries in the city and a number of shops that are perfect to spoil yourself with some retail therapy!
+
+        \n\nPeople\'s mall highlights include:
+
+
+        \n* Children\'s Gaming center
+        \n* Cinema Hall
+        \n* Blowing fare
+        \n* Water Park
+
+    </string>
+
+    <!-- DB CITY MALL-->
+    <string name="db_city_mall">Db City Mall</string>
+    <string name="db_city_mall_address">Zone - I Hoshangabad Road, \nBhopal 462063 \nIndia</string>
+    <string name="db_city_mall_opening_hours">10:30AM to 11:00PM \nAll Days Of The Week.</string>
+    <string name="db_city_mall_website"><a href = "http://www.dbcity.in/">http://www.dbcity.in/</a></string>
+    <string name="db_city_mall_visit_duration">1 to 2 Hours</string>
+    <string name="about_db_city_mall">
+        Spread over 13 lacs sq.ft of floor space, “DB City” is one of the largest shopping centers in central India housing
+        over 135 Indian and international brands and f&amp;b outlets under one roof. It is the first shopping mall in Bhopal and city
+        has witnessed its opening in Aug, 2010. Mall is Located at the gist of the central business district, one of the galvanizing
+        territory of the city. DB City has carefully cherry picked mix of brands providing optimum choice to the consumer in shopping,
+        entertainment, food and leisure. Courtyard Marriott hotel recently opened.
+
+        \n\nMall is witnessing over 10 lacs footfall per month which goes up to 18 lacs during festive season (Diwali, Christmas etc).
+        DB Mall now has become city\'s landmark &amp; benchmark not just in shopping, but also in entertainment &amp; leisure activities.
+
+    </string>
+
+    <!--MANBHAWAN TEKRI-->
+    <string name="manuabhan_tekri">Manuabhan Tekri</string>
+    <string name="manuabhan_tekri_address">Sun City, Lalghati, Bhopal, \nMadhya Pradesh 462038 \nIndia</string>
+    <string name="manuabhan_tekri_opening_hours"> 06:30 AM - 08:00 PM \nAll Days Of The Week.
+    \n\nRope Way Timings: 10:00 am to 7:00 pm &amp; will be closed from 1:00 pm to 3:30 pm
+     Rope way open full day on Sunday and Public Holidays.</string>
+    <string name="manuabhan_tekri_entry_fees">* No Entry Fee
+                                              \n* ₹66 per person for two way RopeWay trip</string>
+    <string name="manuabhan_tekri_website"><a href = "https://bhopaltourism.in/manua-bhan-ki-tekri-bhopal">https://bhopaltourism.in/manua-bhan-ki-tekri-bhopal</a></string>
+    <string name="manuabhan_tekri_visit_duration">1 to 2 hours</string>
+    <string name="about_manuabhan_tekri">
+        Situated atop a hill is the beautiful Manua Bhan Ki Tekri, a famous pilgrimage spot for Jain devotees.
+        Also known as Mahaveer Giri, it is known for its exquisite architecture and panoramic views of the city.
+        The tekri houses the footwear of Jain saint Shri Jindutta Sureshwarji, Maharaj Shri Vijay Suriji and Acharya Manutung,
+        along with an idol of Shri Man Bhadarji.
+        \n\nThe Simha Gate of the temple features an old manuscript carved on stone, interestingly the language in which it
+        is written is still to be deciphered. It is said to be the Sadhana Sthali of Oswal Dynasty. On the event of Kartik Purnima,
+        a big fare is held in the temple every year.
+        \n\nThe temple is situated on top of the hill near Lal Ghati. To reach here you can either take the ropeway up the hill
+        or walk up from the base of the hill.
+
+
+    </string>
+
+    <!--INDIRA GANDHI RASHTRIYA MANAV SANGRAHALAY-->
+    <string name="manav_sangrahalay">Indira Gandhi Rashtriya Manav Sangrahalay</string>
+    <string name="manav_sangrahalay_address">Lake View Road, Next to RCE campus, \nShymala Hills, Bhopal, \nMadhya Pradesh 462013 \nIndia</string>
+    <string name="manav_sangrahalay_opening_hours"> March to August 11.00 to 18.30 and September to Feb 10.00 to 17.30.
+                                                \nOpens on  Every day except Mondays and National Holidays.</string>
+    <string name="manav_sangrahalay_entry_fees">* Free Entry : Children up to 12 years.
+                                                \n* Entry tickets, Rs. 50/- per head and Rs. 25/- concessional charges for students and groups.
+                                                \n* Entry of the children age below 12 years is free. Visitors and for students on production of Identity cards.
+    </string>
+    <string name="manav_sangrahalay_website"><a href = "http://igrms.gov.in/">http://igrms.gov.in/</a></string>
+    <string name="manav_sangrahalay_visit_duration">2 to 3 hours</string>
+    <string name="about_manav_sangrahalay">
+        The open-air exhibitions include Himalayan Village, Medicinal Trail, Mythological Trails, Desert Village and Rock-Art Heritage
+        that displays 36 rock shelters with stunning prehistoric paintings. There is also an artistically designed indoor museum called
+        Veethi Sankul. The enclosed museum exhibits a collection of traditional outfits, agricultural &amp; household objects and other crafts
+        showcasing the regime of the tribes!
+        \n\nThe museum gives visitors a great opportunity to do trekking and cycling. Along with that, they can also discover more
+        than 50 dwells of Indian tribal communities living in different climates and locations of the country. The fine infrastructure
+        with winding roads amidst the sprawling green forest, bring joy to the travellers who want to unwind and gain a holistic experience.
+
+        \n\nThe premises of Indira Gandhi Rashtriya Manav Sangrahalaya are alive all year round through numerous events. From
+        educational programmes, open-air plays, exhibitions, workshops, literature fest, dance recitals to other tribal festivals,
+        the museum is deeply dedicated to its core mandates i.e. to support, promote and celebrate the cultural diversity of India
+        in every possible way. Simply put, IGRMS symbolises new museum movement in India where tribal and folk communities nurture
+        their dream in order to head the sustainable future.
+        \nIt is an ideal destination to indulge in soft-adventure activities while admiring the beauty of nature!
+    </string>
+
+    <!--GOHAR MAHAL-->
+    <string name="gohar_mahal">Gohar Mahal</string>
+    <string name="gohar_mahal_address">VIP Road, Nakkar Khana, \nPeer Gate Area, Bhopal, \nMadhya Pradesh 462001 \nIndia</string>
+    <string name="gohar_mahal_opening_hours">All days of the week.\n8:00 AM - 6:00 PM</string>
+    <string name="gohar_mahal_entry_fees">* No entry fee.</string>
+    <string name="gohar_mahal_website"><a href = "https://bhopaltourism.in/gohar-mahal-bhopal">https://bhopaltourism.in/gohar-mahal-bhopal</a></string>
+    <string name="gohar_mahal_visit_duration">1 hour</string>
+    <string name="about_gohar_mahal">
+        Constructed in the year 1820 by the first woman ruler of Bhopal, Gohar Begum this is one of the most beautiful structures in Bhopal.
+        The palace was built with a perfect blend of Hindu and Mughal styles of architecture. Gohar Mahal has lost some of its original
+        charm over the years, but it is undergoing restoration which will bring back its grandeur.
+    </string>
+
+    <!--BIRLA MUSEUM-->
+    <string name="birla_museum">Birla Museum</string>
+    <string name="birla_museum_address">Arera Hills, Bhopal, \nMadhya Pradesh 462011 \nIndia</string>
+    <string name="birla_museum_opening_hours">All days of the week.\n10:00 AM - 5:30 PM</string>
+    <string name="birla_museum_entry_fees">* ₹30 per person.</string>
+    <string name="birla_museum_website"><a href = "https://bhopaltourism.in/gohar-mahal-bhopal">https://bhopaltourism.in/gohar-mahal-bhopal</a></string>
+    <string name="birla_museum_visit_duration">2 to 3 Hours</string>
+    <string name="about_birla_museum">
+        The Birlas are one of the biggest names associated with the industrial development in India. They are the pioneers
+        in the field of Science and Technology in the country; and the Birla Children\'s Museum serves this purpose to the fullest.
+        The Birla Group has taken this initiative in Kolkata and had established a museum to display their achievements and offer
+        opportunity for the younger generation to learn the basic concepts of science. The museum was established in 1956 and it
+        has ever since been the favourite place for the science lovers and students who are interested in this field.
+        \n\nVisit this museum to witness a wide spectrum of galleries and design works that ranges from basic to advanced science
+        including nuclear, mining, communication, electronics, iron and steel etc. There are a lot of activities that are being
+        organised in the museum including game shows, sky watch sessions, movie screening, fun-filled learning sessions and a lot
+        more. Another section in  Birla Children\'s Museum includes an aquarium, aviary, rabbit house, bonsai plants, snake pits and
+        underground coal mine to offer a deep insight into the field.
+
+    </string>
+    
+    <!--ARCHAEOLOGICAL MUSEUM -->
+    <string name="archaeological_museum">Archaeological Museum</string>
+    <string name="archaeological_museum_address">Shyamla Hills Rd, NITTTR Campus, \nShymala Hills, Bhopal, \nMadhya Pradesh, 462002 \nIndia</string>
+    <string name="archaeological_museum_opening_hours">All days of the week Except Monday.\n10:30 AM - 5:30 PM</string>
+    <string name="archaeological_museum_entry_fees">* ₹10 for Indians
+                                \n* ₹100 for Foreigners
+                                \n* ₹50 for Still Camera
+                                \n ₹200 for Video Camera</string>
+    <string name="archaeological_museum_website"><a href = "https://bhopaltourism.in/state-archaeological-museum-bhopal">https://bhopaltourism.in/state-archaeological-museum-bhopal</a></string>
+    <string name="archaeological_museum_visit_duration">2 to 3 Hours</string>
+    <string name="about_archaeological_museum">
+        Bhopal which is appropriately called as the “City of Lakes”, is a wonderful city located in central India. It is the
+        capital city of Madhya Pradesh located on the Malwa plateau. Culturally Bhopal is a wealthy city and is burgeoning as
+        a major tourist destination in Central India. The city boasts its unrivalled charm and is the home to a lot of museums
+        and galleries of which State Archaeological Museum, Bhopal is worthy of a visit. It has a lot of informative and remarkable
+        artifacts belonging to the historic era of Madhya Pradesh.
+        \n\nArchaeological Museum of Bhopal holds a significant place among the monuments and museums of Bhopal. The museum is
+        the miniature form of the rich traditions of the state. The important things to watch are paintings of different schools,
+        statues the Hindu Goddess of Wealth also called as Lakshmi, and magnificent statues of Buddha.
+
+    </string>
+
+    <!--Shaukat Mahal -->
+    <string name="shaukat_mahal">Shaukat Mahal</string>
+    <string name="shaukat_mahal_address">Sultania Rd, Nakkar Khana, \nPeer Gate Area, Bhopal, \nMadhya Pradesh 462001 \nIndia</string>
+    <string name="shaukat_mahal_opening_hours">All days of the week Except Friday.\n7:00 am – 7:00 pm (1st Apr to 30th Sep)
+\n7:00 am – 6:00 pm (1st Oct to 31st Mar)</string>
+    <string name="shaukat_mahal_entry_fees">No Entry Fee</string>
+    <string name="shaukat_mahal_website"><a href = "https://bhopaltourism.in/shaukat-mahal-bhopal">https://bhopaltourism.in/shaukat-mahal-bhopal</a></string>
+    <string name="shaukat_mahal_visit_duration">1 Hours</string>
+    <string name="about_shaukat_mahal">
+       One of the architectural wonders of Bhopal, Shaukat Mahal features an exquisite amalgamation of Indo-Islamic and European
+        styles of architecture. Given its architecture, it is believed that this palace was designed by a Frenchman and is thus very
+        different from the rest of the Islamic architecture in the locality. Post-Renaissance and Gothic styles have been combined in
+        the construction of the palace, which are reflected in its architectural beauty.
+        \n\nThe palace is made of white alabaster, and features a series of complicated triangular-shaped arches on the ceiling.
+        The exterior walls are adorned with delicate floral patterns.There is a brick-red building of Sadar Manzil, adjoining the
+        palace which once served as the hall of public audience and is surrounded by beautiful gardens.
+
+    </string>
+    
+    
+    <!--Bharat bhawan -->
+    <string name="bharat_bhawan">Bharat Bhawan</string>
+    <string name="bharat_bhawan_address">Bharat Bhawan Rd, Near Upper Lake, \nKrishna Nagar, Shymala Hills, Bhopal, \nMadhya Pradesh 462013 \nIndia</string>
+    <string name="bharat_bhawan_opening_hours">
+        All days of the week except Monday
+        \n2:00 PM - 8:00 PM (Feb - Oct)
+        \n1:00 PM - 7:00 PM (Nov - Jan)
+    </string>
+    <string name="bharat_bhawan_entry_fees">₹10 per person entry fee</string>
+    <string name="bharat_bhawan_website"><a href = "http://bharatbhawan.org/">http://bharatbhawan.org/</a></string>
+    <string name="bharat_bhawan_visit_duration">1 to 2 Hours</string>
+    <string name="about_bharat_bhawan">
+
+        Inaugurated by the then Prime Minister of India, Shrimati Indira Gandhi on 13th February 1982, Bharat Bhavan is multi art centre
+        set up to create an interactive proximity between the verbal, visual and performing arts. It provides space for contemporary
+        expression, thought, quest and innovation. Bharat Bhavan seek to provide a creative and thought provoking milieu to those
+        who wish to contribute something new and meaningful, in contemporary scene in the fine arts, literature, theatre, cinema,
+        dance and music. It houses some of the best and most lasting that is being created in our towns, villages and forests.
+
+        \n\nCharles Correa the architect found here the possibilities of a series of terraced gardens, which would be seen cascading
+        down to the lake. The visitors enter at the highest level and walk down a pedestrian spine, flanked by a pattern of courtyards,
+        to reach the various parts of the complex. Each curve and space defines itself. Each of the part of the building is distinct
+        yet flows easily one another, linked by meandering paths. The total effect is one of the surprise and pleasure. There is always
+        a moment when the eye can rest and the mind contemplates.
+
+        The activities of Bhart Bhavan are organized through its wings.
+
+    </string>
+
+    <!--RAISEN FORT -->
+    <string name="raisen_fort">Raisen Fort</string>
+    <string name="raisen_fort_address">Raisen, Madhya Pradesh 464551 \nIndia</string>
+    <string name="raisen_fort_opening_hours">
+        All days of the week
+        \n10:00 AM - 5:00 PM
+    </string>
+    <string name="raisen_fort_visit_duration">2 to 3 Hours</string>
+    <string name="about_raisen_fort">
+
+        Raisen Fort is a substantial historical edifice placed atop a hill enthralling a vast water reservoir, palaces and a few
+        temples within the fort. Located in the city of Bhopal, the 800-year-old fort has nine gateways, fortifications, domes and
+        the remains of several buildings from the early medieval period. It\'s now an abode to hundreds of bats.
+        \n\nRaisen fort is also a shrine of a Muslim saint Hazrat Peer Fatehullah Shah Baba. It is believed that the shrine can
+        fulfil the desires of the pilgrims. Until the 16th century, the fort was under the hegemony of the Rajputs and other Hindu
+        rulers. Although the nawabs of Bhopal initially captured the fort, it is presently under the custody of ASI. The magnificent
+        fort stands on an outlier of a rock which has a massive stone wall pierced with nine gateways. It drowns in a wilderness and
+        a thick undergrowth of vegetation and wild long grass. Adorned with a large courtyard and a beautiful pool in the middle, the
+        origin of the Raisen fort dates back to the 1200 AD. With four palaces (Badal Mahal, Rohini Mahal, Itradaan Mahal &amp; Hawa Mahal)
+        within its boundaries, the mighty fort also houses a temple dedicated to Lord Shiva. The doors of the temple open every year on
+        the occasion of Shivratri. The pilgrims who visit the temple on other days tie a piece of cloth on the grill gate for the fulfilment
+        of their wishes. Raisen fort also abounds rock shelters with paintings created by the cave dwellers.
+
+    </string>
+
+    <!--Bhojpur temple -->
+    <string name="bhojpur_temple">Bhojpur Temple</string>
+    <string name="bhojpur_temple_address">Bhojpur Madhya Pradesh 464551,
+ \nIndia</string>
+    <string name="bhojpur_temple_opening_hours">
+        All days of the week
+        \n6:00 am – 7:00 pm
+    </string>
+    <string name="bhojpur_temple_visit_duration">2 to 3 Hours</string>
+    <string name="about_bhojpur_temple">
+        The enigmatic temple of Bhojpur is an incomplete Hindu temple situated in the Bhojpur Village of Madhya Pradesh.
+        Dedicated to Lord Shiva, it houses a 7.5 feet high lingam in its sanctum and is believed to have been constructed
+        in the 11th century during the reign of King Bhoja. The temple\'s construction was left abandoned for reasons that
+        are still unknown. Construction material can still be found at the site, with architectural plans engraved on the
+        surrounding rocks. Historians speculate that it could be due to a sudden natural disaster, war or lack of resources.
+        The temple has been designated as a Monument of National Importance by the Archaeological Survey of India (ASI).
+        \n\nThere are many theories revolving around what may have happened that led to the abandonment of the Bhojpuri
+        Temple\'s construction. One theory is presented by the peculiar construction style of the edifice, where the temple
+        does not have a \'Mandapa\' connected to the inner sanctum. Another unique construction feature is the temple\'s
+        rectilinear roof which defies the typical curvilinear dome tower. These divergences have led some to believe that
+        Bhojpur Temple was perhaps a funerary monument constructed by Bhoja for the peace of soul of his father Sindhuraja
+        or of his uncle Munja. The lingam in the Bhojpur Temple is built using three superimposed limestone blocks with a
+        height of 7.5 feet and a circumference of 17.8 feet. The total height of the lingam is 40 feet with a square platform
+        as a base. It is the tallest lingam of its kind in the world.
+
+    </string>
+
+
+    <!--Malai temple -->
+    <string name="malai_temple">Shri Madhya Swami Malai Temple</string>
+    <string name="malai_temple_address">Slum Area, Arera Colony, Bhopal,\nMadhya Pradesh 462039
+ \nIndia</string>
+    <string name="malai_temple_opening_hours">
+        All days of the week
+        \n8:30 AM to 12:00 PM
+        \n2:00 AM to 6:00 PM
+    </string>
+    <string name="malai_temple_visit_duration">1 Hours</string>
+    <string name="about_malai_temple">
+        Sri Kanchi Kamakoti mutt, a Goshala set up at Madhya Swamimalai Mandir, Bhopal.A temple
+        of Sri Kanchi math was estblished in 1984.The Shankaracharya of the kanchi math is the main priest for all the kanchi
+        math temple.lord Karthikeya is mainly worshipped although shrine of other gods can also be found here. This is one of
+        the famous Hindu temple in India.
+        \n\nThis temple is located in Arera Colony, Bhopal. 15 kms from Bhopal main railway station.
+        \n35 years oldest hill rock temple and maintained by Kanchi Kamakotti Pettam, Kanchipuram.
+        \n\nLord Swaminatha or Karthikeya is the presiding deity of the Madhya Swamimalai Temple.In addition to the presiding
+        deity, other shrines located in the temple include Ishwarya Ganapathi temple(Ganesh ji Mandir),Lord Ekambaranatha
+        temple(Shivji Mandir),Devi Kamakshi temple(Devi Mandir),Navagrahs Mandir(Nine Divine planets),Lord Hanuman temple
+        (Maruti Mandir),Lord Venkateshwara temple(Balaji Mandir),Lord Naga devatha temple,Lord Sri Krishna temple,Paduka Mandir.
+
+    </string>
+    
+    
+    <!--Mata Mandir-->
+    <string name="mata_mandir">Mata Mandir</string>
+    <string name="mata_mandir_address">Near Budhni, \nSehore District, Salkanpur, \nMadhya Pradesh 466446,
+ \nIndia</string>
+    <string name="mata_mandir_opening_hours">
+        All days of the week
+        \n6:00 AM -10:00 PM
+
+    </string>
+    <string name="mata_mandir_visit_duration">2 Hours</string>
+    <string name="about_mata_mandir">
+        Devoted to one of the incarnations of goddess Durga, the presiding deity in Salkanpur Temple is of Ma Durga Beejasan.
+        It is also linked to the legend of the Shaktipeeth in Hindu mythology, where temples were created on spots where parts
+        of Goddess Parvati\'s charred body fell.
+        \n\nEven though the temple is quite old, but it is well maintained and renovated by Salkanpur Trust. The temple is perched
+        on a 244 meters high hillock and has more than 1000 stairs. Those of you who don\'t want to take the stairs can use the
+        ropeway service, an easier way to reach the temple. Through the ropeway, you will reach the back entrance of the temple.
+        The ropeway goes over a pond, through the forest area to the hill top, offering panoramic views of the surroundings.
+
+    </string> 
+    
+    <!--jain Mandir-->
+    <string name="jain_mandir">jain Mandir</string>
+    <string name="jain_mandir_address">sun city,Lalghati, Bhopal, \nMadhya Pradesh 462030
+ \nIndia</string>
+    <string name="jain_mandir_opening_hours">
+       06:30 AM - 08:00 PM \nAll Days Of The Week.
+    \n\nRope Way Timings: 10:00 am to 7:00 pm &amp; will be closed from 1:00 pm to 3:30 pm
+     Rope way open full day on Sunday and Public Holidays.
+
+    </string>
+    <string name="jain_mandir_entry_fees">* No Entry Fee
+                                              \n* ₹66 per person for two way RopeWay trip</string>
+    <string name="jain_mandir_visit_duration">2 Hours</string>
+    <string name="about_jain_mandir">
+        Situated atop a hill is the beautiful Manua Bhan Ki Tekri, a famous pilgrimage spot for Jain devotees.
+        Also known as Mahaveer Giri, it is known for its exquisite architecture and panoramic views of the city.
+        The tekri houses the footwear of Jain saint Shri Jindutta Sureshwarji, Maharaj Shri Vijay Suriji and Acharya Manutung,
+        along with an idol of Shri Man Bhadarji.
+        \n\nThe Simha Gate of the temple features an old manuscript carved on stone, interestingly the language in which it
+        is written is still to be deciphered. It is said to be the Sadhana Sthali of Oswal Dynasty. On the event of Kartik Purnima,
+        a big fare is held in the temple every year.
+        \n\nThe temple is situated on top of the hill near Lal Ghati. To reach here you can either take the ropeway up the hill
+        or walk up from the base of the hill.
+
+    </string> 
+    
+    
+    <!--kali Mandir-->
+    <string name="kali_mandir">kali Mandir</string>
+    <string name="kali_mandir_address">Near Thana Tallaiya, Sultania Road, Bhopal, Madhya Pradesh
+ \nIndia</string>
+    <string name="kali_mandir_opening_hours">
+        All days of the week
+        \n6:00 AM -10:00 PM
+
+    </string>
+    <string name="kali_mandir_visit_duration">1 Hours</string>
+    <string name="about_kali_mandir">
+        The Shri Kalika Mandir temple has developed a place where the wishes of everyone are fulfilled. All religious people
+        across the Country are visiting temples and making their life better-off by the blessings of Goddess Maa Kalika.
+        \n\nThis Shri Kalika Mandir temple of Dakshin Kali at lower lake was Established by Shri Shiv Narayan Singh Bagwar
+        with the consecrations of Goddess Maa Shri Kalika on Shrawan Shukl Ekadashi Vikram Samvat 2024 i.e. 3rd September,
+        1968 and the temple has developed a place where the wishes of everyone is satisfied. Shri Kalika Mandir temple,
+        Kalighat has been a center point amongst believers of Sakti and has developed as a Shakti Peeth over a period of
+        time. A religious place of great significance for devotees across all segments by prolonged dedicated services of
+        Shri Shiv Narayan Singh Bagwar.
+
+    </string>
+
+
+
+    <!--Gurudwara-->
+    <string name="gurudwara">Gurudwara</string>
+    <string name="gurudwara_address">Bhadbhada Road, Jawahar Chowk, \nStt Nagar, TT Nagar, Bhopal, \nMadhya Pradesh 462003
+ \nIndia</string>
+    <string name="gurudwara_opening_hours">
+        All days of the week
+        \n8:00 AM -6:00 PM
+
+    </string>
+    <string name="gurudwara_visit_duration">2 Hours</string>
+    <string name="about_gurudwara">
+        A gurdwara is a place of assembly and worship for Sikhs. People from all faiths, and those who do not profess any faith
+        , are welcomed in Sikh gurdwaras. Each gurdwara has a Darbar Sahib where the current and everlasting guru of the Sikhs,
+        the scripture Guru Granth Sahib, is placed on a takhat (an elevated throne) in a prominent central position. The raagis
+        (who sing Ragas) recite, sing and explain, the verses from the Guru Granth Sahib, in the presence of the congregation.
+
+    </string>
+
+
+    <!--DAUDI BOHRA MASJID-->
+    <string name="daudi_bohra_masjid">Daudi Bohra Masjid</string>
+    <string name="daudi_bohra_masjid_address">Saeed colony Berasia Road, Bhopal, \nMadhya Pradesh 462038
+ \nIndia</string>
+    <string name="daudi_bohra_masjid_opening_hours">
+        All days of the week
+        \n8:00 AM -6:00 PM
+    </string>
+    <string name="daudi_bohra_masjid_visit_duration">1 Hours</string>
+    <string name="about_daudi_bohra_masjid">
+        Dawoodi Bohra communities are united by a set of centuries-old principles: an unwavering commitment to the faith;
+        being law-abiding citizens and developing a genuine love for the country in which they live; a belief in the value
+        of society, education, hard work and empowering women; engagement with other faiths; and a responsibility to care
+        for the environment and all creatures that dwell within it. They seek to embrace modernity while remaining true to
+        their traditions and core beliefs.
+        \n\nIn 2018, the Dawoodi Bohra community launched Project Rise, a global initiative established to improve the lives
+        of people that are marginalized, neglected or living in poverty. Its upliftment programs span a range of policy areas,
+        including healthcare, nutrition, hygiene, environmental responsibility and conservation, and education. Project Rise
+        takes its inspiration from the teachings of Islam and the Prophetic traditions, which instruct Muslims to work for
+        the betterment of others.
+
+    </string>
+
+
+    <!--DHAI SEEDHI MASJID-->
+    <string name="dhai_seedhiki_masjid">Dhai Seedhi ki masjid</string>
+    <string name="dhai_seedhiki_masjid_address">Medical College Campus, Kohefiza, Bhopal, Madhya Pradesh 462001
+ \nIndia</string>
+    <string name="dhai_seedhiki_masjid_opening_hours">
+        All days of the week
+        \n8:00 AM -6:00 PM
+    </string>
+    <string name="dhai_seedhiki_masjid_visit_duration">1 Hours</string>
+    <string name="about_dhai_seedhiki_masjid">
+        Bhopal is not only home to Asia’s largest mosque, but to the oldest and tiniest mosque in the entire world as well!
+        Situated inside the grounds of Hamidia Hospital, opposite to Taj-ul-Masjid, Dhai Seedhi ki Masjid is just four big
+        steps by four big steps in area, making it about 16 sq m. acreage. Built on top of an old fort, this mosque has a
+        watchtower of its own. According to locals, this is one of the oldest Bhopal mosques. This mosque came up as a
+        makeshift mosque while the fort was being built and has continued to remain a place of worship ever since.
+        \n The mosque was built as a praying place for the guards at the nearby fort.It is a photographer’s delight
+        and one can come up with some excellent pictures here.
+
+    </string>
+
+
+    <!--VITTHAL MARKET MASJID-->
+    <string name="vitthal_masjid">Vitthal Market masjid</string>
+    <string name="vitthal_masjid_address">Ekant Park, Char Imli, Bhopal, Madhya Pradesh 462016
+ \nIndia</string>
+    <string name="vitthal_masjid_opening_hours">
+        All days of the week
+        \n8:00 AM -6:00 PM
+    </string>
+    <string name="vitthal_masjid_visit_duration">1 Hours</string>
+
+
+    <!--Sheetla Mata Mandir-->
+    <string name="sheetla_mata_mandir">Sheetla Mata Mandir</string>
+    <string name="sheetla_mata_mandir_address">Mataghat, Bada Talab, \nBhopal - 462001
+ \nIndia</string>
+    <string name="sheetla_mata_mandir_opening_hours">
+        All days of the week
+        \n6:00 AM -7:00 PM
+
+    </string>
+    <string name="sheetla_mata_mandir_visit_duration">1 Hours</string>
+
+
+    <!--Neori Mandir-->
+    <string name="neori_mandir">Neori Mandir</string>
+    <string name="neori_mandir_address">1, Neori Mandir Rd, BDA Colony, \nNayapura, Idgah Hills, Bhopal, \nMadhya Pradesh 462001
+ \nIndia</string>
+    <string name="neori_mandir_opening_hours">
+        All days of the week
+        \n8:00 AM -8:00 PM
+
+    </string>
+    <string name="neori_mandir_visit_duration">1 Hours</string>
+    <string name="about_neori_mandir">
+        It is a structure designed to bring human beings and gods together, using symbolism to express the ideas and beliefs
+        of Hinduism. The symbolism and structure of a Hindu temple are rooted in Vedic traditions, deploying circles
+        and squares. It also represents recursion and equivalence of the macrocosm and the microcosm by astronomical
+        numbers, and by "specific alignments related to the geography of the place and the presumed linkages of the deity
+        and the patron". A temple incorporates all elements of Hindu cosmos—presenting the good, the evil and the
+        human, as well as the elements of Hindu sense of cyclic time and the essence of life—symbolically presenting dharma,
+        kama, artha, moksa, and karma.
+
+    </string>
+
+
+    <!--Gufa Mandir-->
+    <string name="gufa_mandir">Gufa Mandir</string>
+    <string name="gufa_mandir_address">Gufa mandir, Nayapura, Lalghati, \nBhopal, Madhya Pradesh 462030
+ \nIndia</string>
+    <string name="gufa_mandir_opening_hours">
+        All days of the week
+        \n6:30 AM - 7:00 PM
+
+    </string>
+    <string name="gufa_mandir_visit_duration">1 Hours</string>
+    <string name="about_gufa_mandir">
+        Gufa Mandir positioned in the vicinity of Lalghati, is said to have been founded by Late Baba Narayan Das
+        in 1949. Inside the building of the temple, statues of Lord Shiva, Ram - Laxman, Sitaji, Goddess Durga and
+        Hanuman have been set up. The temple lures plenty of tourists from different parts of the world for darshan
+        every day. Enclosing a Sanskrit college as well, this temple campus is easily accessible from anywhere in the city.
+
+    </string>
+
+
+    <!--Sai Mandir-->
+    <string name="sai_mandir">Sai Baba Mandir</string>
+    <string name="sai_mandir_address">E-6, Arera Colony, Bhopal, \nMadhya Pradesh 462016
+ \nIndia</string>
+    <string name="sai_mandir_opening_hours">
+        All days of the week
+        \n6:00 AM -8:00 PM
+
+    </string>
+    <string name="sai_mandir_visit_duration">1 Hours</string>
+    <string name="about_sai_mandir">
+       Sai Baba is now revered as an incarnation of Sri Dattatreya and considered as Saguna Brahma by his devotees.
+        He is attributed to be the creator, sustainer and destroyer of this universe by his devotees. He is decorated
+        with jewels and all forms of Hindu vedic deities as he is believed by his followers to be the supreme God.
+        \n\nAccording to Sri Pada Sri Vallabha charithra, Sripada Srivallabha the first incarnation of lord Dattatreya,
+        had blessed lord Hanuman to be born as Sai Baba to spread the equality and spirituality with a message all are
+        equal Sabka Malik Ek (Everyone\'s Master is One)
+
+    </string>
+
+    <!--Moti masjid-->
+    <string name="moti_masjid">Moti Masjid</string>
+    <string name="moti_masjid_address">Hawamahal Rd, Opposite Moti Masjid, \nChowki Talaiya, Talaiya, Bhopal, \nMadhya Pradesh 462001
+ \nIndia</string>
+    <string name="moti_masjid_opening_hours">
+        All days of the week
+        \n6:00 AM -7:00 PM
+
+    </string>
+    <string name="moti_masjid_visit_duration">1 to 2 Hours</string>
+    <string name="about_moti_masjid">
+       Moti Masjid, also known as the Pearl Mosque, is situated in the heart of the city. A beautiful shrine, Moti
+        Masjid signifies the history of the Bhopal Begums in India. Constructed in 1860 by Sikander Jehan Begum of
+        Bhopal, the daughter of Qudisiya Begum, its architecture is more or less similar to the Jama Masjid in Delhi.
+        Sikandar Begum, an unconventional and liberal women, abolished slavery. She used to dress up like a man usually
+        and go out riding without a veil. She set the trend of progressive women in the city and thus Bhopal came to be
+        known as the place of relatively liberated and progressive women.
+        \n\nThe mosque stands majestically as a symbol of Bhopal\'s history and features a white marble facade with two
+        small cupolas on the top. There are two dark red towers on either sides of the main building, adorned with bright
+        golden spikes. These beautiful minarets are considered to be the gateway to heaven on earth and are used for the
+        call to prayer for all faithful followers of Islam.
+
+
+    </string>
+
+
+    <!--Kalibari Mandir-->
+    <string name="kalibari_mandir">Kalibari Mandir</string>
+    <string name="kalibari_mandir_address">Awadhpuri, Piplani, BHEL, \nBhopal, Madhya Pradesh 462022
+ \nIndia</string>
+    <string name="kalibari_mandir_opening_hours">
+        All days of the week
+        \n6:00 AM -8:00 PM
+
+    </string>
+    <string name="kalibari_mandir_visit_duration">1 Hours</string>
+    <string name="about_kalibari_mandir">
+       The Kalibari at BHEL,Out of around 10,000 workers of the BHEL plant in Bhopal, there were 800 craftsmans and 200
+        supervisory staff who were Bengalis.
+        \n\nAs is unavoidable with the nearness of Bengalis, a Bangiya Sanskritik Parishad (BSP) was shaped in April 1960,
+        with a library and perusing room offices at BHEL Bhopal. The Kali Puja, Durga Puja and Saraswati Puja begun to
+        be sorted out yearly. Around 1963, the administration affirmed allotment of land under the non-exchanging social
+        orders represent religious purposes. A real estate parcel was designated in composing under the plan, close Piplani,
+        to the Bangiya Sanskritik Parishad by the BHEL Management. In 1967 a Kalibari samiti (affiliation) was shaped.
+
+    </string>
+
+
+    <!--Chintaman ganesh-->
+    <string name="chintaman_ganesh">Shree Chintaman ganesh Temple</string>
+    <string name="chintaman_ganesh_address">Sehore, Madhya Pradesh 466001
+ \nIndia</string>
+    <string name="chintaman_ganesh_opening_hours">
+         All days of the week
+        \n6:00 AM -8:00 PM
+    </string>
+    <string name="chintaman_ganesh_visit_duration">1 Hours</string>
+    <string name="about_chintaman_ganesh">
+      Chintaman Ganesh is an ancient holy and the biggest temple and of Lord Ganesha in Ujjain. As it is the temple
+        of Ganesha, people take the blessings of Ganesh for starting every new venture. This temple is built across
+        the Shipra river on the Fatehabad railway line. The temple is dedicated to Lord Ganesha, who is regarded as
+        the Lord of beginnings as per the Hindu beliefs.
+        \n\nIn the traditional times, the Lord is known as Chintaharan which literally means remover of all worries
+        and tensions. The temple is thronged by crowds of people that come to do away with all their worries at the
+        shrine of the Lord. The term Chintamani is another name used for Lord Vishnu, who is considered as the
+        preserver of the Universe as per Hindu Mythology.
+
+    </string>
+
+
+    <!-- Bhimbetka -->
+    <string name="bhim_betka">Rockshekter Of Bhimbetka</string>
+    <string name="bhim_betka_address">Bhojpur Raisen, \nMadhya Pradesh 464990
+ \nIndia</string>
+    <string name="bhim_betka_opening_hours">All days of the week
+        \n6:30 AM -5:30 PM</string>
+    <string name="bhim_betka_entry_fees">* ₹10 per person for Indians
+  \n* ₹100 per person for foreign tourists
+  \n* ₹50 per LMV for Indians
+  \n* ₹20 per LMV for foreign tourists
+  \n* ₹100 per mini bus for Indians
+  \n* ₹400 per mini bus for foreign tourists
+    </string>
+    <string name="bhim_betka_website"><a href = "http://www.mptourism.com/tourist-places/bhimbetka-caves-rock-shelters.html">http://www.mptourism.com/tourist-places/bhimbetka-caves-rock-shelters.html</a></string>
+    <string name="bhim_betka_visit_duration">2 to 3 Hours</string>
+    <string name="about_bhim_betka">
+
+Cave paintings dating back to approximately 30,000 years. Rock shelters that were home to humans, millennia ago. And a rich
+        flora and fauna surrounding these, indeed, make Bhimbetka a gift to us from our earliest ancestors.
+        \n\nAn archaeological treasure, Bhimbetka has around 243 rock shelters. The paintings found in the rock shelters here have a
+        striking resemblance to the ones discovered in Kakadu National Park in Australia; to the cave paintings of Bushmen
+        in Kalahari Desert and Upper Palaeolithic Lascaux cave paintings in France.
+        \n\nA walkthrough these ancient naturally carved rocks surrounded by dense forests of Bhimbetka will bring alive
+        child-like wonder in you.
+    </string>
+
+
+    <!-- Bhoj Wetland -->
+    <string name="bhoj_wetland">Bhoj Wetland</string>
+    <string name="bhoj_wetland_address">Near Upper &amp; Lower Lake, Bhopal,
+
+ \nIndia</string>
+    <string name="bhoj_wetland_opening_hours">All days of the week
+        \n6:30 AM -5:30 PM</string>
+    <string name="bhoj_wetland_entry_fees">No Entry Fee
+        \n\nBoating Prices
+    \n* ₹100 per person for Cruise boat (Ride of 45 minutes)
+    \n* ₹240 per person for Motor Boat
+    \n* ₹80 per person for Paddle Boat
+    </string>
+    <string name="bhoj_wetland_website"><a href = "https://en.wikipedia.org/wiki/Bhoj_Wetland">https://en.wikipedia.org/wiki/Bhoj_Wetland</a></string>
+    <string name="bhoj_wetland_visit_duration">1 to 2 Hours</string>
+    <string name="about_bhoj_wetland">
+The Bhoj Wetland consists of two lakes located in the city of Bhopal, the capital of the central Indian state of Madhya Pradesh.
+        The two lakes are the Bhojtal (Upper Lake) &amp; the Lower Lake, which lie to the west of the city center. The Bhojtal has
+        an area of 31 km square, and drains a catchment or watershed of 361 km square. The watershed of the Bhojtal is mostly rural, with
+        some urbanized areas around its eastern end. The lower lake has an area of 1.29 km square. Its catchment is 9.6 km square and
+        is mostly urbanized; the Lower Lake also receives subsurface seepage from the Bhojtal.
+        \n\nThe Bhojtal was created by Paramara Raja Bhoj (1005-1055), ruler of Malwa. He established Bhopal (also named after him)
+        to secure the eastern frontier of his kingdom. The lake was created by constructing an earthen dam across the Kolans River.
+        The Kolans was formerly a tributary of the Halali River; with the creation of the Bhojtal and a diversion channel, the upper
+        reach of the Kolans River and the Bhojtal now drain into the Kaliasot River. Bhadbhada dam was constructed in 1965 at the
+        southeast corner of the Bhojtal; it now controls the outflow to the Kaliasot river.
+        \n\nThe Lower Lake was created in 1794 by Nawab Chhote Khan, Minister of Nawab Hayath Mohammad Khan, to beautify the
+        city. It is also contained behind an earthen dam, and drains into the Halali River via the lower reach of the Kolans
+        River, presently known as the Patra Drain. Both the Kaliasot and Halali Rivers are tributaries of the Betwa River.
+        \n\nThe lakes are home to a diverse flora and fauna, including many waterbirds. They have been designated a wetland
+        of international importance under the international Ramsar Convention since August 2002.    </string>
+
+
+    <!-- Singhori Wild Life Sanctuary -->
+    <string name="singhori_wild_life_sanctuary">Singhori Wild Life Sanctuary</string>
+    <string name="singhori_wild_life_sanctuary_address">Kartoli, Madhya Pradesh 464986
+ \nIndia</string>
+    <string name="singhori_wild_life_sanctuary_opening_hours">All days of the week
+        \n6:00 AM -9:00 PM</string>
+    <string name="singhori_wild_life_sanctuary_website"><a href = "https://en.wikipedia.org/wiki/singhori_wild_life_sanctuary">https://en.wikipedia.org/wiki/singhori_wild_life_sanctuary</a></string>
+    <string name="singhori_wild_life_sanctuary_visit_duration">2 to 3 Hours</string>
+    <string name="about_singhori_wild_life_sanctuary">
+    The Singhori Wildlife Sanctuary was established in the year 1976 spread over a total area of 288 sq. km. The Tiger,
+    Leopard, Sambhar, Chital, Wild Boar, etc. are amongst the most spotted animal species here. Choukigarh Fort, Bhandariya
+    Temple, and Caves of Jamgarh. On the Occasion of Shivratri, a fair is organized at various temples around the Sanctuary
+    like the Bhandariya, Shiv Temple. Also places like Bhopal, Delabadi, Bhojpur, Pachmarhi are around the Sanctuary,
+    which serve as wonderful touring spots for visitors. Forest Rest House, Bhandiv Forest Rest House Bumhori, P. W. D.
+        Rest House, Bari is available for accommodation at the Sanctuary.</string>
+
+
+    <!-- Kerwa dam -->
+    <string name="kerwa_dam">Kerwa Dam</string>
+    <string name="kerwa_dam_address">Kerwa Dam, Mendora, \nMadhya Pradesh 462007
+ \nIndia</string>
+    <string name="kerwa_dam_opening_hours">All days of the week
+        \n8:00 AM to 6:00 PM.</string>
+    <string name="kerwa_dam_entry_fees">No Entry Fee
+         \n540 per person for Riding Ropeway
+    </string>
+    <string name="kerwa_dam_visit_duration">1 to 2 Hours</string>
+    <string name="about_kerwa_dam">
+        On a sunny day, the Kerwa Dam is the perfect spot to unwind and relax as you go boating, bird-watch or simply
+        have a small picnic in the lush greenery all around.
+        \n\nThe nearby Jungle camp is a favorite family spot where you can feel closer to nature and enjoy the view of
+        the dam. The place offers adventure sports like Roping, Paintball, Rappelling and River Crossing. Don’t forget
+        to carry your camera to capture the scenic beauty all around.    </string>
+
+    <!-- Halali dam -->
+    <string name="halali_dam">Halali Dam</string>
+    <string name="halali_dam_address">Halali Dam, Madhya Pradesh,
+ \nIndia</string>
+    <string name="halali_dam_opening_hours">All days of the week
+        \n8:00 AM to 6:00 PM.</string>
+    <string name="halali_dam_entry_fees">No Entry Fee
+    </string>
+    <string name="halali_dam_visit_duration">1 to 2 Hours</string>
+    <string name="about_halali_dam">
+        Located 42 kilometers from Bhopal, the Halali Dam is a popular weekend spot. Whether you want to have a picnic here
+        or simply want to go boating at the reservoir, the place promises to be a relaxing experience.
+        \n\nOn sunny days, do prefer visiting the place in the early evening and enjoy the sunset as you sail in the water.
+        The gorgeous view all around adds to the charm of the place.
+        \n\nThe Halali reservoir is a reservoir in the Raisen district of Madhya Pradesh, India. It is built on the Halali River, 
+        and lies 40 km away from the state capital Bhopal.The Halali River is a tributary of the Betwa River. It was formerly known as Thal River. In the 18th century, Dost Mohammad Khan\'s 
+        forces killed a rival Rajput force near Jagdishpur (later renamed to Islamnagar) on the bank of the river. The river was 
+        renamed to Halali river (the river of slaughter), because it appeared red with the blood of the victims.[3] Another name 
+        for the river is Banganga.The Halali reservoir was commissioned in 1973
+    </string>
+
+    <!-- Bhadbhada dam -->
+    <string name="bhadbhada_dam">Bhadbhada Dam</string>
+    <string name="bhadbhada_dam_address">Suraj Nagar, Bhopal, \nMadhya Pradesh 462044
+ \nIndia</string>
+    <string name="bhadbhada_dam_opening_hours">All days of the week
+        \n8:00 AM to 5:30 PM.</string>
+    <string name="bhadbhada_dam_entry_fees">No Entry Fee
+    </string>
+    <string name="bhadbhada_dam_visit_duration">1 to 2 Hours</string>
+    <string name="about_bhadbhada_dam">
+       Built in 1960\’s, the Bhadbhada Dam is located on the Upper lake in Bhopal. The dam is used to regulate water flow
+        in the Kaliasote river and consist of 11 gates. During the monsoon, the place is perfect for a day trip since the
+        gates are opened.
+        \nOn other days, the view of the lake and the river make for a great way to take a pit-stop as you explore the city.
+    </string>
+
+    <!-- Vardhman Park -->
+    <string name="vardhman_park">Vardhman Park</string>
+    <string name="vardhman_park_address">Lake View Walk Path, Kamla Park, \nKrishna Nagar, Shymala Hills, \nBhopal, Madhya Pradesh 462001
+ \nIndia</string>
+    <string name="vardhman_park_opening_hours">All days of the week
+        \n9:00 AM to 10:30 PM.</string>
+    <string name="vardhman_park_entry_fees">* ₹2 per person
+  \n* ₹40 - 160 per person for ride
+  \n* ₹200 per person for Package of 15 rides
+
+    </string>
+    <string name="vardhman_park_visit_duration">1 to 2 Hours</string>
+    <string name="about_vardhman_park">
+      A must visit for unlimited dose of fun and entertainment!  Vardhman Fantasy Park Mumbai  offers a lot of rides and
+        it is the most popular amusement park of the city. It has a lot of open space and various kinds of events take place
+        during the weekends. The food court here offers tasty yet affordable food. It is the most popular hang-out zone of the city.
+
+    </string>
+
+
+    <!-- kaliyasot dam -->
+    <string name="kaliyasot_dam">Kaliyasot Dam</string>
+    <string name="kaliyasot_dam_address">Kaliyasot Dam, \nBhopal, Madhya Pradesh
+ \nIndia</string>
+    <string name="kaliyasot_dam_opening_hours">All days of the week
+        \n 7:00 AM - 6:00 PM.</string>
+    <string name="kaliyasot_dam_entry_fees">No Entry Fee
+    </string>
+    <string name="kaliyasot_dam_visit_duration">1 to 2 Hours</string>
+    <string name="about_kaliyasot_dam">
+     Kaliyasot Dam is one the most prominent dams in Bhopal, Madhya Pradesh. The place is about 13.5 kms away from the Bhopal
+     Junction railway station.
+    \n\nKaliyasot Dam is primarily used for the irrigation of the farmlands in the immediate areas of Bhopal and Raisen,
+        especially for growing rabi crops in the months of November to February. The dam also features as an essential part
+        of the process of conserving and controlling the flow of rainwater. The dam has 13 gates through which rainwater is directed
+        into the flow of the Kaliyasot river, which eventually merges into the Betwa river. The Kaliyasot Dam is a breath of fresh air
+        for residents and tourists in the city of Bhopal. The dam has a large lake with pristine water on one side of it, and dense
+        greenery on the other. The spot has also gained popularity as a favourite among road trippers for a quick stopover in between
+        long drives. Since the area surrounding the dam is made up of a thick cover of trees, the place is also a prime location for
+        spotting a wide variety of birds. Tigers have also been sighted in recent years near the dam.
+        \n\nKaliyasot Dam offers its visitors the luxury of choosing to indulge in some physical activity or to simply sit
+        and take in the silence and the scenery. The best time to visit is during the months of winter for a sunny day on the
+        waterside. Visitors can easily spend up to 1 or 2 hours at the place.
+        \n\nKaliyasot Dam is not just one of Bhopal\'s major water management projects, but also an enchanting tourist spot.
+        The dam and its surrounding area are perfect for an early morning jog or a light stroll later in the evening.
+    </string>
+
+
+    <!-- Kamlanehru udyan -->
+    <string name="kamlanehru_udyan">Kamla Nehru Park</string>
+    <string name="kamlanehru_udyan_address"> Eastern Rd of BHEL, \nSector A, Berkheda, Bhopal, \nMadhya Pradesh 462022
+ \nIndia</string>
+    <string name="kamlanehru_udyan_opening_hours">All days of the week except Tuesday
+        \n 4:00 AM - 8:00 PM.</string>
+    <string name="kamlanehru_udyan_entry_fees">No Entry Fee
+    </string>
+    <string name="kamlanehru_udyan_visit_duration">1 to 2 Hours</string>
+    <string name="about_kamlanehru_udyan">
+    Kamla Nehru Bal Udhyan is a public park near BHEL township, Sector A in Berkheda, Bhopal. The park is located in the heart of Bhopal.
+        Kamla Nehru Bal Udhyan is within city-limits and is easily reachable by road.
+        \nKamla Nehru Bal Udhyan is a public and children\'s park in BHEL township located in Bhopal. It is one of the best children
+        garden in the city. There is a toy train inside the park which can be enjoyed by the toddlers. Other amenities which the park
+        provides are special kids play area, swings, rope bridge and a walking path for morning walk and jogging. The place also doubles
+        up as a picnic area where families can enjoy their weekend and the young ones can enjoy with many fun activities the place provides.
+        \n\nVisitors should visit the place for the well maintained services which will not only make children happy but will give
+        peace to the adults as well. Walking in the garden can boost the vitality of mind and lungs as there is a lot of greenery and
+        the garden is full of trees.
+    </string>
+
+
+    <!-- Tribal museum -->
+    <string name="tribal_museum">Tribal Museum</string>
+    <string name="tribal_museum_address"> Shyamla Hills Rd, Near State Museum, \nShymala Hills, Bhopal, \nMadhya Pradesh 462002
+ \nIndia</string>
+    <string name="tribal_museum_opening_hours">All days of the week except Tuesday
+        \n 12:00 PM - 8:00 PM.</string>
+    <string name="tribal_museum_entry_fees">* Indian Visitors: INR 10 per person (10 years &amp; Above).
+\n* Foreign Visitors: INR 100 per person (10 years &amp; Above).
+\n* Photography: INR 50 (Camera without stand/tripod/flash).
+    </string>
+    <string name="tribal_museum_visit_duration">1 to 2 Hours</string>
+    <string name="about_tribal_museum">
+    The Madhya Pradesh Tribal Museum nullifies the gap between the mythical belief of the Tribal population and the evolving
+        urbanization. The museum gives you a peak into the psychology of the Tribal people, their practices, games and interpretation
+        of life.
+        \n\nLearn about the Baiga, Gond, Saharia, Kol, Korko and Bharia tribes of India. Don\’t forget to see the exhibits made from
+        terracotta, hollows of dried gourd, hemp and papier-mache. The gallery is quiet a visual treat for art lovers.
+    </string>
+
+
+    <!-- Tribal museum -->
+    <string name="madhai">The Madhai Resort</string>
+    <string name="madhai_address">Saharanpur Rd, Sohagpur, \nMadhya Pradesh 461771
+ \nIndia</string>
+    <string name="madhai_opening_hours">All days of the week
+        \nOpen 24 hours</string>
+    <string name="madhai_entry_fees">(**NA**)
+    </string>
+    <string name="madhai_visit_duration">1 to 2 Hours</string>
+    <string name="about_madhai">
+    Madhai is located at the entrance of the most exquisite and beautiful forests in India - Satpura.
+        Few places in the world can compete with its raw wilderness, absolute tranquillity and the air of mystique.
+        It delights you with its rich wildlife, sprawling meadows, unending backwaters and spell-binding views that
+        leave you awestruck and get you to be completely in sync with the magic of nature
+    </string>
+
+
+    <!-- Hathaikheda dam -->
+    <string name="hathaikheda_dam">hathaikheda Dam</string>
+    <string name="hathaikheda_dam_address">Piplani Rd, Piplani, Anandnagar, Bhopal, Madhya Pradesh 462021
+ \nIndia</string>
+    <string name="hathaikheda_dam_opening_hours">All days of the week
+        \nOpen 24 hours</string>
+    <string name="hathaikheda_dam_entry_fees">No Entry Fee
+    </string>
+    <string name="hathaikheda_dam_visit_duration">1 to 2 Hours</string>
+    <string name="about_hathaikheda_dam">
+    Hathaikheda is a dam on the outskirts of City of bhopal and is kind of a local picnic spot.
+    </string>
+
+
+    <!--Katara Hill Botanical Garden -->
+    <string name="katara_hill_botanical_garden">Katara Hill Botanical Garden</string>
+    <string name="katara_hill_botanical_garden_address">botanical garden near, \nKatara Hills, Bhopal, \nMadhya Pradesh
+ \nIndia</string>
+    <string name="katara_hill_botanical_garden_opening_hours">All days of the week
+        \n6:00AM to 6:00PM</string>
+    <string name="katara_hill_botanical_garden_entry_fees">No Entry Fee
+    </string>
+    <string name="katara_hill_botanical_garden_visit_duration">1 to 2 Hours</string>
+    <string name="about_katara_hill_botanical_garden">
+    Katara hill botanical garden is situated in katara hill bhopal. There are many types of plants. Best place
+        for nature lover. It opens on all days of the week from 6:00AM to 6:00PM. Best time for visiting this
+        place is 2:00PM to 4:PM.
+    </string>
+
+
+    <!--Hotel Rajhansh-->
+    <string name="hotel_rajhansh">Rajhans Restaurant</string>
+    <string name="hotel_rajhansh_address">Plot No 12 Inter State Bus Terminal \n[ISBT, near Chetak Bridge, behind Nexa Showroom,
+        \nCircle, Bhopal, Madhya Pradesh 462023
+ \nIndia</string>
+    <string name="hotel_rajhansh_opening_hours">All days of the week
+        \nMon- 6:00 AM - 11:00 PM
+    \nTue-Sun - 10:00 AM - 11:00 PM</string>
+    <string name="hotel_rajhansh_cuisines">Indian, \nAsian
+    </string>
+    <string name="hotel_rajhansh_special_diet_meals">* Vegetarian Friendly, \n* Vegan Options, \n* Gluten Free Options\n\nMeals
+    \n* Lunch, \n* Dinner, \n* Brunch
+    </string>
+    <string name="feature_hotel_rajhansh">
+    Takeout, \nReservations, \nSeating, \nTable Service
+    </string>
+
+   
+    <!--Hong kong Restaurants-->
+    <string name="hong_kong">Hong Kong Chinese Restaurant</string>
+    <string name="hong_kong_address">No 131/4 Maharana Pratap, Bhopal 462011
+ \nIndia</string>
+    <string name="hong_kong_opening_hours">All days of the week
+        \n11:00 AM - 11:00 PM
+    </string>
+    <string name="hong_kong_cuisines">Chinese, \nAsian
+    </string>
+    <string name="hong_kong_special_diet_meals">
+    Lunch,\nDinner
+    </string>
+    <string name="feature_hong_kong">
+    Seating
+    </string>
+    
+    
+    
+    <!--Amer bakery Hut-->
+    <string name="amer_bakery_hut">Amer Bakery Hut</string>
+    <string name="amer_bakery_hut_address"> Branch I:-\nZone-I, 209, Hoshangabad Rd,
+        \nDB City Mall, Zone-I,
+        \nMaharana Pratap Nagar, Bhopal,
+        \nMadhya Pradesh 462023
+
+        \n\nBranch II:-\nPrakash Swimming Pool Campus
+        \nLink Main Road No 1, opp.
+        \nArera Club, New Market,
+        \nSTT Nagar, Bhopal, Madhya Pradesh 462016
+
+        \n\nBranch III:-\nBittan Market, Sivay Complex,
+        \nOpposite Habibganj Police Station,
+        \nE-5, Arera Colony, Bhopal,
+        \nMadhya Pradesh 462016
+
+
+ \nIndia</string>
+    <string name="amer_bakery_hut_opening_hours">All days of the week
+        \n9:00 AM - 11:00 PM
+    </string>
+    <string name="amer_bakery_hut_cuisines">Fast food, \nIndian
+    </string>
+    <string name="amer_bakery_hut_special_diet_meals">
+    * Vegetarian Friendly,\n* Vegan Options\n\nMeals
+        \n* Breakfast, \n* Lunch, \n* Dinner
+    </string>
+    <string name="feature_amer_bakery_hut">
+    Takeout\nSeating
+    </string>
+
+
+    <!-- Shaan E Bhopal Rail Restaurant-->
+    <string name="shaan_e_bhopal_rail_restaurant">Shaan E Bhopal Rail Restaurant</string>
+    <string name="shaan_e_bhopal_rail_restaurant_address">Hotel Lake View Campus, Shymala Hills, \nBhopal, Madhya Pradesh 462013
+ \nIndia</string>
+    <string name="shaan_e_bhopal_rail_restaurant_opening_hours">All days of the week
+        \n12:00 PM - 11:00 PM
+    </string>
+    <string name="shaan_e_bhopal_rail_restaurant_cuisines">Indian, \nAsian
+    </string>
+    <string name="shaan_e_bhopal_rail_restaurant_special_diet_meals">
+    * Vegetarian Friendly,\n* Vegan Options\n\nMeals
+        \n* Dinner, \n* Lunch, \n* After-hours
+    </string>
+    <string name="feature_shaan_e_bhopal_rail_restaurant">
+   Reservations, \nSeating, \nParking Available, \nServes Alcohol, \nTable Service, \nValidated Parking, \nLive Music
+    </string>
+
+
+    <!--Sharma and Vishnu Chinese and Fast Food-->
+    <string name="sharma_and_vishnu">Sharma and Vishnu Chinese and Fast Food
+</string>
+    <string name="sharma_and_vishnu_address">Gufa Mandir Road Opposite Domino\'s , \nNear Axis Bank, Bhopal 462032
+ \nIndia</string>
+    <string name="sharma_and_vishnu_opening_hours">All days of the week
+        \n09:30 AM - 11:30 PM
+    </string>
+    <string name="sharma_and_vishnu_cuisines">Chinese, \nAsian, \nFast food
+    </string>
+    <string name="sharma_and_vishnu_special_diet_meals">
+    Vegetarian Friendly\n\nMeals
+        \n* Dinner, \n* Brunch
+    </string>
+    <string name="feature_sharma_and_vishnu">
+   Seating
+    </string>
+
+
+    <!--Sagar Gaire-->
+    <string name="sagar_gaire">Sagar Gaire
+</string>
+    <string name="sagar_gaire_address">Shop No, BDA Complex, 101, \n7 Number Chouraha, Stop, \nShivaji Nagar, Bhopal, \nMadhya Pradesh 462016
+ \nIndia</string>
+    <string name="sagar_gaire_opening_hours">All days of the week
+        \n11:00 AM - 11:00 PM
+    </string>
+    <string name="sagar_gaire_cuisines">Indian, \nFast food, \nAsian
+    </string>
+    <string name="sagar_gaire_special_diet_meals">
+    * Vegetarian Friendly,\n* Vegan Options\n\nMeals
+    Lunch, \n* Dinner, \n* Brunch
+    </string>
+    <string name="feature_sagar_gaire">
+   Takeout, \nAccepts Credit Cards, \nSeating
+    </string>
+
+
+    <!--Bapu Ki Kutia-->
+    <string name="bapu_ki_kutia">Bapu Ki Kutia
+</string>
+    <string name="bapu_ki_kutia_address">New Market Roshanpura, \nBhopal Madhya Pradesh462003
+ \nIndia</string>
+    <string name="bapu_ki_kutia_opening_hours">All days of the week
+        \n10:00 AM - 11:00 PM
+    </string>
+    <string name="bapu_ki_kutia_cuisines">Indian, \nAsian
+    </string>
+    <string name="bapu_ki_kutia_special_diet_meals">
+    * Vegetarian Friendly,\n* Vegan Options,\n* Gluten Free Options\n\nMeals
+    Lunch, \n* Dinner, \n* Brunch\n* After-hours
+    </string>
+    <string name="feature_bapu_ki_kutia">
+   Delivery, \nTakeout, \nReservations, \nSeating, \nParking Available, \nTable Service
+    </string>
+
+
+    <!--Momo Cafe-->
+    <string name="momo_cafe">Momo Cafe
+</string>
+    <string name="momo_cafe_address">DB City - Arera Hills Courtyard by Marriott, \nBhopal, Bhopal 462011
+ \nIndia</string>
+    <string name="momo_cafe_opening_hours">All days of the week
+        \n06:30 AM - 11:30 PM
+    </string>
+    <string name="momo_cafe_cuisines">Italian, \nIndian, \nCafe, \nMiddle Eastern, \nInternational, \nAsian
+    </string>
+    <string name="momo_cafe_special_diet_meals">
+    * Vegetarian Friendly,\n* Vegan Options,\n* Halal,\n* Gluten Free Options\n\nMeals
+    Breakfast,\n* Lunch, \n* Dinner, \n* Brunch\n* After-hours
+    </string>
+    <string name="feature_momo_cafe">
+   Takeout, \nReservations, \nPrivate Dining, \nSeating, \nParking Available, \nValidated Parking,
+        \nValet Parking, \nTelevision, \nHighchairs Available, \nWheelchair Accessible, \nServes Alcohol,
+        \nFull Bar, \nFree Wifi, \nAccepts Credit Cards, \nTable Service, \nBuffet, \nLive Music
+    </string>
+
+
+    <!--Lazeez Hakim-->
+    <string name="lazeez_hakim">Lazeez Hakim
+</string>
+    <string name="lazeez_hakim_address">187/A, Zone-I,\nMP Nagar Zone-1, Bhopal 462063
+ \nIndia</string>
+    <string name="lazeez_hakim_opening_hours">All days of the week
+        \n011:00 AM - 11:30 PM
+    </string>
+    <string name="lazeez_hakim_cuisines">Indian
+    </string>
+    <string name="lazeez_hakim_special_diet_meals">
+    * Halal\n\nMeals
+    \n* Lunch, \n* Dinner
+    </string>
+    <string name="feature_lazeez_hakim">
+  Seating, \nReservations, \nTable Service
+    </string>
+
+
+    <!--Indian Coffee House-->
+    <string name="indian_coffee_house">Indian Coffee House
+</string>
+    <string name="indian_coffee_house_address">New Market Road, Bhopal 462022
+ \nIndia</string>
+    <string name="indian_coffee_house_opening_hours">All days of the week
+        \n011:00 AM - 10:30 PM
+    </string>
+    <string name="indian_coffee_house_cuisines">Indian, \nSouthwestern, \nAsian
+    </string>
+    <string name="indian_coffee_house_special_diet_meals">
+    * Vegetarian Friendly,\n* Vegan Options,\n* Gluten Free Options\n\nMeals
+    \n* Breakfast, \n* Lunch, \n* Dinner, \n* Brunch
+    </string>
+    <string name="feature_indian_coffee_house">
+  Seating, \nReservations, \nTable Service
+    </string>
+
+    <!--Manohar Dairy and Restaurant-->
+    <string name="manohar_dairy_and_restaurant">Manohar Dairy and Restaurant
+</string>
+    <string name="manohar_dairy_and_restaurant_address">132, Ground Floor, Zone 1 \nMaharana Pratap Nagar, Bhopal 462001
+ \nIndia</string>
+    <string name="manohar_dairy_and_restaurant_opening_hours">All days of the week
+        \n08:00 AM - 10:45 PM
+    </string>
+    <string name="manohar_dairy_and_restaurant_cuisines">Indian, \nFast food, \nStreet Food
+    </string>
+    <string name="manohar_dairy_and_restaurant_special_diet_meals">
+    * Vegetarian Friendly,\n* Vegan Options,\n* Gluten Free Options\n\nMeals
+    \n* Breakfast, \n* Lunch, \n* Dinner, \n* Brunch
+    </string>
+    <string name="feature_manohar_dairy_and_restaurant">
+  Delivery, \nTakeout, \nSeating, \nStreet \nParking, \nAccepts Mastercard, \nAccepts Visa, \nAccepts Credit Cards, \nTable Service
+    </string>
+
+
+    <!--Bake N Shake-->
+    <string name="bake_n_shake">Bake N Shake
+</string>
+    <string name="bake_n_shake_address">Rangmahal Cineplex Compound , \nNew Market , Bhopal 462002
+ \nIndia</string>
+    <string name="bake_n_shake_opening_hours">All days of the week
+        \n11:00 AM - 11:00 PM
+    </string>
+    <string name="bake_n_shake_cuisines">Cafe, \nFast food
+    </string>
+    <string name="bake_n_shake_special_diet_meals">
+    * Vegetarian Friendly\n\nMeals
+    \n* Breakfast, \n* Lunch, \n* Dinner
+    </string>
+    <string name="feature_bake_n_shake">
+  Takeout, \nSeating
+    </string>
+
+
+    <!--Zam Zam-->
+    <string name="zam_zam">Zam Zam
+</string>
+    <string name="zam_zam_address">Hamidia Road Opposite Corporation Bank, \nBhopal 462001
+ \nIndia</string>
+    <string name="zam_zam_opening_hours">All days of the week
+        \n11:00 AM - 11:00 PM
+    </string>
+    <string name="zam_zam_cuisines">Indian, \nFast food, \nBarbecue, \nAsian
+    </string>
+    <string name="zam_zam_special_diet_meals">
+    * Vegetarian Friendly, \n* Halal\n\nMeals
+    \n* Dinner
+    </string>
+    <string name="feature_zam_zam">
+  Takeout,
+    </string>
+
+
+    <!--Under The Mango Tree-->
+    <string name="under_the_mango_tree">Under The Mango Tree
+</string>
+    <string name="under_the_mango_tree_address">Jehan Numa Palace 157, \nShamla Hills, Bhopal 462013
+ \nIndia</string>
+    <string name="under_the_mango_tree_opening_hours">All days of the week
+        \n07:00 PM - 11:00 PM
+    </string>
+    <string name="under_the_mango_tree_cuisines">Indian, \nBarbecue, \nAsian, \nBar, \nPub, \nSoups
+    </string>
+    <string name="under_the_mango_tree_special_diet_meals">
+    * Vegetarian Friendly, \n* Vegan Options, \n* Gluten Free Options\n\nMeals
+    \n* Dinner, \nAfter-hours
+    </string>
+    <string name="feature_under_the_mango_tree">
+  Takeout, \nReservations, \nOutdoor Seating, \nSeating, \nParking Available, \nValidated Parking, \nValet Parking,
+        \nWheelchair Accessible, \nServes Alcohol, \nFull Bar, \nFree Wifi, \nTable Service, \nHighchairs Available
+    </string>
+
+
+    <!--La Kuchina-->
+    <string name="la_kuchina">La Kuchina
+</string>
+    <string name="la_kuchina_address">157, Shamla Hills Jehan Numa Palace Hotel, Bhopal 462013
+ \nIndia</string>
+    <string name="la_kuchina_opening_hours">All days of the week
+        \n12:30 PM - 03:00 PM
+    </string>
+    <string name="la_kuchina_cuisines">Italian, \nPizza, \nMediterranean
+    </string>
+    <string name="la_kuchina_special_diet_meals">
+    * Vegetarian Friendly, \n* Vegan Options,\n\nMeals
+    \n* Lunch, \n* Dinner
+    </string>
+    <string name="feature_la_kuchina">
+    Takeout, \nReservations, \nSeating, \nHighchairs Available, \nServes Alcohol, \nParking Available, \nFull Bar, \nTable Service
+    </string>
+
+</resources>

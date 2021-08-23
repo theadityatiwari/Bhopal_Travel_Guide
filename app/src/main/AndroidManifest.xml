@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.adityatiwari.android.bhopaltravelguide">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher2"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher2_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name="com.adityatiwari.android.bhopaltravelguide.PlacesInfoActivity"
+            android:theme="@style/PlaceInfoTheme"
+            >
+
+        </activity>
+        <activity android:name="com.adityatiwari.android.bhopaltravelguide.SplashScreen"
+            android:theme="@style/SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.LOGIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.adityatiwari.android.bhopaltravelguide.MainActivity"
+            android:theme="@style/AppTheme">
+
+        </activity>
+        <activity
+            android:name="com.adityatiwari.android.bhopaltravelguide.ReligiousActivity"
+            android:label="Religious places"
+            android:parentActivityName="com.adityatiwari.android.bhopaltravelguide.MainActivity">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.adityatiwari.android.bhopaltravelguide.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.adityatiwari.android.bhopaltravelguide.AttractionActivity"
+            android:label="Attractive places"
+            android:parentActivityName="com.adityatiwari.android.bhopaltravelguide.MainActivity">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.adityatiwari.android.bhopaltravelguide.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.adityatiwari.android.bhopaltravelguide.RestaurantActivity"
+            android:label="Restaurants"
+            android:parentActivityName="com.adityatiwari.android.bhopaltravelguide.MainActivity">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.adityatiwari.android.bhopaltravelguide.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.adityatiwari.android.bhopaltravelguide.NatureActivity"
+            android:label="Natural places"
+            android:parentActivityName="com.adityatiwari.android.bhopaltravelguide.MainActivity">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.adityatiwari.android.bhopaltravelguide.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>

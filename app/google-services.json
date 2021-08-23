@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "181712666545",
+    "firebase_url": "https://bhopal-travel-guide.firebaseio.com",
+    "project_id": "bhopal-travel-guide",
+    "storage_bucket": "bhopal-travel-guide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181712666545:android:a4a4a20dc9a1bc051b8790",
+        "android_client_info": {
+          "package_name": "com.adityatiwari.android.bhopaltravelguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181712666545-g894r92vapcf5k06indrnd2en3ie8lj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-g65NLd441p2jX2wN0sNWnJ3OMDJtjJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181712666545-g894r92vapcf5k06indrnd2en3ie8lj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
